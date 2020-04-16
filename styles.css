@@ -35,7 +35,7 @@ body {
 #header-nav {
   display: block;
   float: right;
-  margin-top: 0:
+  margin-top: 0;
 }
 
 #header-nav li {
@@ -95,7 +95,7 @@ a:hover {
 }
 
 .post-date {
-  color: #D2D2D2
+  color: #D2D2D2;
 
   font-size: 14px;
   font-weight: bold;
