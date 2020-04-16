@@ -124,6 +124,7 @@ img {
 .post-author img, 
 .about-author img {
 border-radius: 50%;
+transform: rotate(90deg);
 }
 
 .post-container:nth-child(even) {
