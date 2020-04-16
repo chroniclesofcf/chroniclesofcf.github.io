@@ -118,11 +118,12 @@ img {
 }
 
 .about {
-  text-align:center;
+  text-align: center;
 }
 
-.post-author img, .about-author img {
-border-radius; 50%;
+.post-author img, 
+.about-author img {
+border-radius: 50%;
 }
 
 .post-container:nth-child(even) {
